@@ -251,6 +251,6 @@ Prochaine étape possible : parser les VCF pour ajouter ces mutations au `cleane
 ## 📚 Références
 
 - Laamarti M. et al. (2023), *Scientific Data* – « Afro‑TB dataset as a large scale genomic data of *Mycobacterium tuberculosis* in Africa ».  
-- Hassan Oubrahim (2024), PFE : « Unraveling the Fitness Mechanism Of Mycobacterium Tuberculosis Based On An African Genomic Dataset ».
+
 
 
